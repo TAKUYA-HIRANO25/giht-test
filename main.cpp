@@ -8,5 +8,6 @@ int main(){
 
 	printf("2023/10/18\n");
 
+
 	return 0;
 }
