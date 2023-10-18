@@ -8,6 +8,8 @@ int main(){
 
 	printf("2023/10/18\n");
 
+	printf("player\n");
 
+	printf("ƒ}[ƒW‚¨Šè‚¢‚µ‚Ü‚·");
 	return 0;
 }
