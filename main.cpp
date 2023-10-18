@@ -10,5 +10,6 @@ int main(){
 
 	printf("player\n");
 
+	printf("ƒ}[ƒW‚¨Šè‚¢‚µ‚Ü‚·");
 	return 0;
 }
