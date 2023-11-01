@@ -3,13 +3,13 @@
 int main(){
 
 	printf("Hello Test\n");
-	printf("LC1A_21_ヒラノ_タクヤ\n");
+	printf("LC1A_21_繝偵Λ繝酸繧ｿ繧ｯ繝､\n");
 	printf("2023/10/11\n");
 
 	printf("2023/10/18\n");
 
 	printf("player\n");
 
-	printf("マージお願いします");
+	printf("Giht Hub cloon");
 	return 0;
 }
